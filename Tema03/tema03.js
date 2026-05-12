@@ -1,7 +1,12 @@
 let nombre = "Thais";
-let edad = 19;
-let estudiante = true;
+const edad = 19;
 
-console.log(nombre);
-console.log(edad);
-console.log(estudiante);
+let esMayorDeEdad = true;
+let persona = { mombre: "Ana", edad: 30};
+
+    console.log(nombre);
+    console.log(edad);
+    console.log(esMayorDeEdad);
+    console.log(persona);
+    console.log(persona.nombre);
+    console.log(persona.edad);
