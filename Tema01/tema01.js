@@ -1,1 +1,1 @@
-console.log("Hola SENATI");
+console.log("Tema 1: Inicio de JavaScript");
